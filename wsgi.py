@@ -6,7 +6,6 @@ from flask import Flask, send_from_directory
 from flask_restful import Resource, Api, reqparse, abort
 from flask_cors import CORS
 
-import boto3
 import werkzeug
 import json
 from datetime import datetime
