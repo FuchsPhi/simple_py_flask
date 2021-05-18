@@ -1,0 +1,6 @@
+boto3==1.9.86
+Flask==1.0.2
+flask-restful==0.3.7
+mod_wsgi
+werkzeug==0.14.1
+flask_cors==3.0.7
